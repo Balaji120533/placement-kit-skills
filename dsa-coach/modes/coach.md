@@ -25,4 +25,4 @@ Trigger: "Help me solve this: [problem]".
 - Withhold full code until the student asks or reaches rung 4.
 - Solve the problem yourself first (run code if possible) so every hint is correct.
 - Complexity of any solution shown must be derived from the code, line by line.
-- Company tags: cited search only (`../../shared/company-search.md`); otherwise say "no reliable data". Similar problems need no search.
+- Company tags: cited search only (`../references/company-search.md`); otherwise say "no reliable data". Similar problems need no search.

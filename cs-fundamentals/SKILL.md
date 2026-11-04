@@ -15,7 +15,7 @@ Covers the technical MCQ part of placement round 1. C/Java output prediction is 
 | "10 OS MCQs, medium" | Practice | `modes/practice.md` + topic file |
 | "20 questions, 25 minutes" | Timed Test | `modes/timed-test.md` + topic files |
 | "Explain my mistakes" | Mistake Review | `modes/mistake-review.md` |
-| "Zoho CS questions", "TCS previous year" | Company Pattern | `modes/company-pattern.md` + `../shared/company-search.md` |
+| "Zoho CS questions", "TCS previous year" | Company Pattern | `modes/company-pattern.md` + `references/company-search.md` |
 
 ## Topic files (`references/`)
 

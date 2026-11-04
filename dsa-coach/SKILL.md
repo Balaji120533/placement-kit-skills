@@ -21,7 +21,7 @@ If unclear, use Coach. Modes not yet built (Mock Interview, Pattern Drill, Place
 
 ## The 5-stage pipeline (all modes draw on it)
 
-1. **Pattern & origin:** platform (LeetCode / Codeforces / GFG), core pattern, 3 similar problems. Company tags only from a cited search (see `../shared/company-search.md`).
+1. **Pattern & origin:** platform (LeetCode / Codeforces / GFG), core pattern, 3 similar problems. Company tags only from a cited search (see `references/company-search.md`).
 2. **Constraints & intuition:** input size → target complexity; brute force and its bottleneck; the key observation.
 3. **Visual trace:** iteration-by-iteration state table. ASCII by default; Mermaid only where it renders.
 4. **Clean code:** commented solution in Java, C++ or Python, complexity derived from the code.

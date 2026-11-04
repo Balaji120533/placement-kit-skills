@@ -27,6 +27,7 @@ Companies rarely repeat exact questions; the pattern is what repeats. Do not sea
 4. Say how reliable the source looks. Many "previous year" posts are recycled.
 5. Never invent company names, frequencies or tags. If there is no source, say "no reliable data" and show the pattern family plus similar problems.
 6. If search is unavailable, say so and generate original questions instead.
+7. Company questions: rewrite a reported question in your own words with new numbers, then solve it yourself. Label it "Based on a question reported by <source>", with the link. Never say a question was "asked by <company>" as fact, and never copy one word for word.
 
 ## Output shape
 
@@ -34,5 +35,5 @@ Companies rarely repeat exact questions; the pattern is what repeats. Do not sea
 Sources found:
 - <title> — <url> — <date> — <reliability note>
 Pattern seen: <what repeats>
-Practice set: <original questions in that pattern>
+Company questions: <one at a time, each labelled as based on a reported question or in the reported pattern>
 ```
