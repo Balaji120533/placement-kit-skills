@@ -13,6 +13,7 @@ Covers the technical MCQ part of placement round 1. C/Java output prediction is 
 | --- | --- | --- |
 | "Teach me deadlock", "explain normalization" | Learn Shortcut | `modes/learn-shortcut.md` + topic file |
 | "10 OS MCQs, medium" | Practice | `modes/practice.md` + topic file |
+| "What's the output of this C code?", or any question the student pastes | Practice (own question) | `modes/practice.md` + topic file |
 | "20 questions, 25 minutes" | Timed Test | `modes/timed-test.md` + topic files |
 | "Explain my mistakes" | Mistake Review | `modes/mistake-review.md` |
 | "Zoho CS questions", "TCS previous year" | Company Pattern | `modes/company-pattern.md` + `references/company-search.md` |

@@ -8,7 +8,8 @@ Trigger: "20 mixed questions, 25 minutes".
 2. Prepare every question first: solve each, verify with code where possible, ensure one correct option, and keep the answer key private.
 3. Show all questions at once (numbered, options A–D). Do NOT reveal answers or hints.
 4. Ask the student to reply with answers like `1-A, 2-C…` when done.
-5. Reveal the report: total score, section-wise (topic-wise) score, and the correct answers with working. Offer Mistake Review.
+5. Solve every question again from the start, without showing this step. If a question turns out to be flawed, leave it out of the score and say so.
+6. Reveal the report: total score, section-wise (topic-wise) score, and the correct answers with working. Offer Mistake Review.
 
 ## Rules
 
