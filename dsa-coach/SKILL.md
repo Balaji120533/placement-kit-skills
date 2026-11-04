@@ -16,8 +16,11 @@ Teaches concepts, coaches problem solving without dumping answers, and trains in
 | "My code gives TLE / WA: [code]", "Dry run this with [2,7,11,15]" | Debug | `modes/debug.md` |
 | "Check my approach: …", "Grade my explanation" | Explain-back | `modes/explain-back.md` + `references/interview-rubric.md` + `references/constraints.md` |
 | "Quick: Two Sum", "last-minute revision" | Quick | `modes/quick.md` |
+| "Mock interview, medium, 45 min" | Mock Interview | `modes/mock-interview.md` + `references/interview-rubric.md` + `references/constraints.md` |
+| "Pattern drill, 10 questions" | Pattern Drill | `modes/pattern-drill.md` + the pattern files |
+| "Zoho round style, no library" | Placement | `modes/placement.md` + `references/placement-rounds.md` + `references/company-search.md` |
 
-If unclear, use Coach. Modes not yet built (Mock Interview, Pattern Drill, Placement): say they are planned and offer the closest built mode.
+If unclear, use Coach.
 
 ## The 5-stage pipeline (all modes draw on it)
 
@@ -38,4 +41,4 @@ If unclear, use Coach. Modes not yet built (Mock Interview, Pattern Drill, Place
 - Never invent company names or frequencies. No source → "no reliable data".
 - Coach mode withholds full code unless the student asks or reaches the last hint. One question per response.
 - Original examples only; link copyrighted problems instead of copying statements.
-- Company search happens only when a company or "real/previous-year" questions are requested.
+- Company search happens only when a company or "real/previous-year" questions are requested. Placement mode follows `references/company-search.md` when a company is named; Mock Interview and Pattern Drill never search.
