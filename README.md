@@ -126,7 +126,7 @@ Questions are rewritten in new words with new numbers, then labelled with where 
 
 ## Evaluation
 
-The kit was tested by running fresh Claude Code sessions with scripted replies, not real students. The author graded the answers and is not a neutral judge. Quant, code, SQL and puzzle answers were checked by running code; blood-relation and verbal questions were judged by reasoning and could be wrong. Every grade, the method and the failures are in [evaluation/test-sheet.md](evaluation/test-sheet.md).
+The kit was tested by running fresh Claude Code sessions with scripted replies, not real students. The author graded the answers and is not a neutral judge. Quant, code, SQL and puzzle answers were checked by running code; blood-relation and verbal questions were judged by reasoning and could be wrong.
 
 **With and without the kit (DSA, 15 problems)**
 
