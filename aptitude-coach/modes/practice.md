@@ -25,6 +25,14 @@ When the student pastes a question instead of asking for a set:
 - **Medium:** two or three steps, or a formula applied indirectly.
 - **Hard:** two concepts combined, or a condition that is easy to miss.
 
+## Question format (always)
+
+- Every question is multiple choice: four options A–D, exactly one correct. Never open-ended, and never several parts in one question.
+- If the natural question has several answers, ask one of them and put the others in the options. For a puzzle, ask one question about the arrangement.
+- Never print the answer, working or a solution in the question message. They come only after the student replies.
+- When the student replies, always give right or wrong, the correct option and the working. If they reply with a letter, match it to the options.
+- Only drop the options if the student asks for open-ended questions.
+
 ## What makes a good question
 
 - It tests one clear idea from the topic file and has realistic numbers.

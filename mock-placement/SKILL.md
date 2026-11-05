@@ -1,6 +1,6 @@
 ---
 name: mock-placement
-description: Runs full timed placement round-1 mock tests, general or company-specific, with a section-wise report.
+description: Runs full timed placement round-1 mock tests that mix aptitude and technical MCQs, general or company-specific, with a section-wise report. Use whenever the user asks for a mock test, mock round, full test, round 1 test or practice exam, for example "round 1 mock, 30 questions, 40 minutes" or "Zoho round 1 mock".
 ---
 
 # Mock Placement

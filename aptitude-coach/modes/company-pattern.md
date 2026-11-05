@@ -7,7 +7,7 @@ Trigger: "Zoho aptitude questions", "TCS previous year aptitude", "Infosys aptit
 1. Follow `../references/company-search.md` fully: search the named company's recent aptitude rounds.
 2. **Keep the source summary short:** title, link, date and reliability for each source, and the topic mix that repeats. If sources disagree, say so. If they are thin or recycled, say "no reliable data" for what is missing.
 3. **Start the questions straight away.** Do not stop to ask whether the student wants them. Default to 10 questions, medium, with topics in the mix the sources report. Use the count or difficulty the student gave, if any.
-4. Show ONE question with four options, or none if the sources report written answers. Label it:
+4. Show ONE question with four options, following the question format in `practice.md`. If the sources say the real round has written answers, mention it once and still give options, because options are needed to mark the answer. Label it:
    - "Based on a question reported by <source>" with the link, if it comes from a reported question, rewritten with new numbers.
    - "In the reported pattern" if it is original.
 5. Wait for the answer.

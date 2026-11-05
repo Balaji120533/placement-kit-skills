@@ -2,6 +2,10 @@
 
 Every question must pass these checks before it is shown.
 
+## Format (always)
+
+Every question is multiple choice with four options A–D and exactly one correct. No open-ended or multi-part questions. For output and SQL questions, give four possible outputs as the options. Never print answers or working in the test.
+
 ## What makes a good question
 
 - It tests one clear idea and has realistic numbers.

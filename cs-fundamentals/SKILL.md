@@ -1,6 +1,6 @@
 ---
 name: cs-fundamentals
-description: Technical MCQ trainer for OS, DBMS, SQL, networks, OOP and C/Java output prediction.
+description: Technical MCQ trainer for placement round 1. Use whenever the user asks for CS practice questions, MCQs or a timed technical test, wants a topic taught, or pastes any C, C++ or Java snippet, SQL query or multiple-choice question and asks for the answer, "what is the output" or "what does this print". Covers operating systems (processes, scheduling, deadlock, paging), DBMS and SQL (keys, normalization, transactions, joins, query output), computer networks (OSI, TCP and UDP, subnetting), OOP (overloading, overriding, abstract classes, interfaces), and C and Java output prediction (pointers, precedence, static, strings, macros). Also handles company technical MCQs such as Zoho or TCS.
 ---
 
 # CS Fundamentals MCQ

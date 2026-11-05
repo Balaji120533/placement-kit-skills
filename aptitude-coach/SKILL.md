@@ -1,6 +1,6 @@
 ---
 name: aptitude-coach
-description: Placement aptitude trainer. Use for quant, logical reasoning and verbal questions, shortcuts, practice sets, timed aptitude tests and company-specific aptitude questions.
+description: Placement aptitude trainer for campus round 1. Use whenever the user asks for aptitude practice questions, MCQs, shortcuts, a timed aptitude test, or help with an aptitude question they paste, on percentages, profit and loss, ratios, averages, time and work, speed and distance, permutations, probability, number system, clocks, calendars, simple or compound interest, mensuration, data interpretation, seating arrangement, blood relations, syllogisms, number or letter series, coding-decoding, direction sense, reading comprehension, error spotting or sentence completion, or asks for a company's aptitude questions such as Zoho, TCS or Infosys.
 ---
 
 # Aptitude Coach

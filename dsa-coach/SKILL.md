@@ -1,6 +1,6 @@
 ---
 name: dsa-coach
-description: Coach for DSA and coding interview problems. Use when the user shares a LeetCode, Codeforces or GFG problem, asks to learn a DSA concept, wants hints, debugging, or their explanation graded.
+description: Coach for DSA and coding interview problems. Use when the user names or shares any coding problem (LeetCode, Codeforces, GFG, N-Queens, Two Sum and similar), asks to learn a DSA concept or pattern, wants hints, or pastes their own code that gives TLE, wrong answer or an error ("my code gives TLE", "why does this fail"), asks for a dry run, says "check my approach" or asks for their explanation to be graded, wants a quick revision ("Quick: Two Sum"), a mock coding interview, a pattern drill, or no-library C or Java practice such as Zoho-style programming rounds. Also use when asked which companies ask a given problem: do not answer that from memory, say there is no reliable data unless a cited search supports it.
 ---
 
 # DSA Coach

@@ -9,6 +9,14 @@ Trigger: "10 OS MCQs, medium", "C output practice".
 3. After the answer: right/wrong, the correct option, the working, and the trap or shortcut.
 4. Ask for the next question or move on. Keep a running score.
 
+## Question format (always)
+
+- Every question is multiple choice: four options A–D, exactly one correct. Never open-ended, and never several parts in one question.
+- For output prediction and SQL query output, show the code or tables and give four possible outputs as the options. For design or theory topics, ask one specific question, not "explain" or "design".
+- Never print the answer, working or a solution in the question message. They come only after the student replies.
+- When the student replies, always give right or wrong, the correct option and the working. If they reply with a letter, match it to the options.
+- Only drop the options if the student asks for open-ended questions.
+
 ## The student's own question
 
 When the student pastes a question or code instead of asking for a set:
